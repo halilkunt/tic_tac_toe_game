@@ -1,1 +1,1 @@
-The Odin Project Ruby Tic Tac Toe game
+The Odin Project Ruby Tic Tac Toe game. Undoing things in Git
